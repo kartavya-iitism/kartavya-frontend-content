@@ -1,0 +1,35 @@
+{
+  "main": {
+    "title": "About Kartavya",
+    "subtitle": "A student-led social organization at IIT (ISM) Dhanbad",
+    "description": "Kartavya is committed to promoting social welfare and community development in and around the IIT (ISM) Dhanbad campus. We strive to make a positive impact by addressing various social issues and providing a platform for meaningful community service."
+  },
+  "initiatives": [
+    {
+      "title": "Educational Programs",
+      "description": "Providing tutoring, computer literacy classes, and scholarships for underprivileged children."
+    },
+    {
+      "title": "Health Awareness",
+      "description": "Organizing health camps, awareness programs, and free medical check-ups for the community."
+    },
+    {
+      "title": "Environmental Care",
+      "description": "Conducting tree-planting drives and promoting eco-friendly practices in the community."
+    }
+  ],
+  "media": {
+    "video": {
+      "title": "Video Gallery",
+      "youtubeId": "TRjVbS-Gdak"
+    },
+    "social": {
+      "title": "Social Media",
+      "twitterHandle": "Kartavyadhn"
+    }
+  },
+  "support": {
+    "title": "Support & Recognition",
+    "description": "Kartavya is powered by generous donations from alumni, faculty members, and supporters. Our dedicated team of volunteers works tirelessly to create positive change in our community."
+  }
+}
