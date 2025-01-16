@@ -1,0 +1,65 @@
+{
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us"
+  },
+  "contactInfo": {
+    "address": {
+      "icon": "LocationOn",
+      "title": "Address",
+      "text": "Kartavya C-3, Mondal Basti, Dhaiya PO-ISM, Dhanbad - 826004 (Jharkhand)"
+    },
+    "email": {
+      "icon": "Email",
+      "title": "Email",
+      "text": "sponsor.kartavya@gmail.com"
+    },
+    "phone": {
+      "icon": "Phone",
+      "title": "Phone",
+      "text": "+91-9123258021"
+    }
+  },
+  "form": {
+    "title": "Send Message",
+    "fields": {
+      "name": {
+        "label": "Name",
+        "type": "text",
+        "required": true
+      },
+      "email": {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      "subject": {
+        "label": "Subject",
+        "type": "text",
+        "required": true
+      },
+      "message": {
+        "label": "Message",
+        "type": "textarea",
+        "rows": 4,
+        "required": true
+      }
+    },
+    "submitButton": "Send Message"
+  },
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.082469212406!2d86.43252181429825!3d23.815666292198365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6bca0c68a439f%3A0xb7aeed608c840d19!2sKartavya%20Center-3!5e0!3m2!1sen!2sin!4v1678824590782!5m2!1sen!2sin",
+    "title": "Kartavya Location"
+  },
+  "alerts": {
+    "success": {
+      "message": "Message sent successfully!"
+    },
+    "error": {
+      "message": "Failed to send message. Please try again."
+    }
+  },
+  "api": {
+    "endpoint": "https://sheet.best/api/sheets/61aa65a3-b56b-46b1-8336-539d644e626d"
+  }
+}
