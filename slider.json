@@ -7,19 +7,19 @@
   },
   "items": [
     {
-      "img": "/assets/IMG_20240323_125518.jpg",
+      "img": "https://github.com/kartavya-iitism/kartavya-frontend-content/blob/main/IMG_20240323_125518.jpg",
       "title": "Educate a Child. Empower a Society",
       "description": "Young readers are future leaders!",
       "alt": "Slide 1"
     },
     {
-      "img": "/assets/image-k-3.jpg",
+      "img": "https://github.com/kartavya-iitism/kartavya-frontend-content/blob/main/image-k-3.jpg",
       "title": "Towards an educated India",
       "description": "Dedicated to all-round development of children with academics, sports, and culture.",
       "alt": "Slide 2"
     },
     {
-      "img": "/assets/DSC_0105.jpg",
+      "img": "https://github.com/kartavya-iitism/kartavya-frontend-content/blob/main/DSC_0105.jpg",
       "title": "Educate and Empower Young Girls and Women",
       "description": "The progress of a community is measured by the degree of progress of both men and women.",
       "alt": "Slide 3"
