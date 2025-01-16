@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "Founding Story",
+    "subtitle": "A Journey That Led to New Beginnings"
+  },
+  "founder": {
+    "image": "/assets/amreshmishra.webp",
+    "imageAlt": "Mr. Amresh Mishra - Founder of Kartavya",
+    "name": "Mr. Amresh Mishra",
+    "title": "IPS Officer"
+  },
+  "story": {
+    "paragraphs": [
+      {
+        "text": "Kartavya was founded by a 1999 cohort of students of IIT ISM Dhanbad led by {founderName}, who is an Indian Police Service (IPS) officer. IIT(ISM) Dhanbad is surrounded by slums. The children there used to gather around the hostels on campus and collect stale food. They loitered in and around campus to collect garbage.",
+        "highlights": ["Mr. Amresh Mishra"]
+      },
+      {
+        "text": "Mr. Amresh Mishra, along with some students of IIT(ISM) Dhanbad, decided to start educating these children. Initially, its classes were held in a temple in Lahbani Basti, Dhaiya. Later, it got its own building. This was christened Centre 1 Dhanbad."
+      },
+      {
+        "text": "Initially, its target was childhood education. It expanded to address other problems, including vocational training, woman's empowerment (with a direction to remove social and economic inequalities), and health."
+      }
+    ]
+  },
+  "cta": {
+    "text": "Read More",
+    "link": "/about"
+  }
+}
