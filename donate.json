@@ -1,0 +1,65 @@
+{
+  "hero": {
+    "title": "Make a Difference Today",
+    "subtitle": "Your contribution helps create a better future for children in need.",
+    "registerPrompt": {
+      "text": "If you wish to donate regularly consider registering to our portal. Click to",
+      "linkText": "Register",
+      "linkUrl": "/register"
+    }
+  },
+  "steps": [
+    {
+      "title": "Choose Amount",
+      "description": "Select how much you'd like to donate to support our cause"
+    },
+    {
+      "title": "Make Payment",
+      "description": "Transfer the amount using our bank details or scan QR code"
+    },
+    {
+      "title": "Fill Details",
+      "description": "Complete the form with your information and upload payment reciept"
+    }
+  ],
+  "payment": {
+    "title": "Payment Information",
+    "bankDetails": [
+      { "label": "Account Name", "value": "Kartavya Foundation" },
+      { "label": "Account Number", "value": "1234567890" },
+      { "label": "IFSC Code", "value": "ABCD0123456" },
+      { "label": "Bank Name", "value": "State Bank of India" },
+      { "label": "Branch", "value": "Main Branch, City" }
+    ],
+    "qr": {
+      "title": "Scan to Pay",
+      "imagePath": "/src/assets/qrcode.png",
+      "alt": "Payment QR Code"
+    }
+  },
+  "form": {
+    "title": "Donation Details",
+    "uploadLabel": "Upload Payment reciept",
+    "submitButton": {
+      "default": "Complete Donation",
+      "loading": "Processing..."
+    }
+  },
+  "messages": {
+    "success": "Thank you for your generous donation! We'll get in touch soon.",
+    "error": {
+      "largeAmount": "Please register yourself to donate large amounts."
+    }
+  },
+  "sponsorship": {
+    "amountPerChild": 8000,
+    "labels": {
+      "sponsorshipAmount": "Amount For Children Sponsorship",
+      "totalAmount": "Total Amount"
+    },
+    "helperText": {
+      "sponsorship": "children × ₹8,000 per child",
+      "total": "Sponsorship amount + Extra donation"
+    }
+  }
+}
