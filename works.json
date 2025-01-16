@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "title": "Our Works",
+    "subtitle": "Making a difference in our community"
+  },
+  "works": [
+    {
+      "title": "Education Support",
+      "description": "We provide regular tuition classes at the centers and get children admitted to good schools. In addition, we prepare students for competitive examinations like Jawahar Navodaya, JEE, and SSC, to name a few."
+    },
+    {
+      "title": "Co-curricular Activities",
+      "description": "We promote co-curricular activities among the children by providing karate classes. Kartavya Sports Meet(KSM) is conducted annually."
+    },
+    {
+      "title": "Annual Fest PRAKASH",
+      "description": "Our annual fest \"PRAKASH\" provides children the platform for numerous events including quizzes, dance, singing, poetry competition, science exhibitions, and martial arts demonstration."
+    },
+    {
+      "title": "Awareness Camps",
+      "description": "We set up awareness camps regarding social issues and health and well-being."
+    },
+    {
+      "title": "Vocational Training",
+      "description": "We provide vocational training to women at our sewing centers."
+    }
+  ],
+  "media": {
+    "video": {
+      "title": "Video Gallery",
+      "youtubeId": "TRjVbS-Gdak"
+    },
+    "social": {
+      "title": "Social Media",
+      "twitterHandle": "Kartavyadhn",
+      "twitterOptions": {
+        "height": 400
+      }
+    }
+  }
+}
