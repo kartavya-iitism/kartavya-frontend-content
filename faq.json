@@ -1,0 +1,33 @@
+{
+    "main": {
+        "heading": "Frequently Asked Questions",
+        "subHeading": "Find answers to common questions about Kartavya",
+        "description": "We've compiled a list of frequently asked questions to help you better understand our organization and its initiatives. If you can't find the answer you're looking for, feel free to contact us."
+    },
+    "contactCard": {
+        "heading": "Still Have Questions?",
+        "description": "If you couldn't find the answer you were looking for, please don't hesitate to reach out to us. Our team is here to help you with any queries you may have."
+    },
+    "faqs": [
+        {
+            "question": "How can I support Kartavya?",
+            "answer": "You can support Kartavya through donations, volunteering, or by spreading awareness about our initiatives. Visit our donation page to contribute financially."
+        },
+        {
+            "question": "What is the child sponsorship program?",
+            "answer": "Our child sponsorship program provides educational support to underprivileged children. The sponsorship amount of ₹8,000 covers educational expenses for one year."
+        },
+        {
+            "question": "How are the donations utilized?",
+            "answer": "Donations are primarily used for educational programs, health initiatives, and community development projects. We maintain complete transparency in fund utilization."
+        },
+        {
+            "question": "Can I volunteer at Kartavya?",
+            "answer": "Yes, we welcome volunteers! IIT (ISM) students can join as regular volunteers, while others can participate in specific events and programs."
+        },
+        {
+            "question": "Is my donation tax-deductible?",
+            "answer": "Yes, all donations to Kartavya are eligible for tax deduction under Section 80G of the Income Tax Act."
+        }
+    ]
+}
