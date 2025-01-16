@@ -1,0 +1,19 @@
+{
+  "features": [
+    {
+      "icon": "/src/assets/gift.svg",
+      "title": "Gifts of Happiness",
+      "description": "Unleashing pure happiness in children with delightful surprise gifts"
+    },
+    {
+      "icon": "/src/assets/Idea.svg",
+      "title": "Creative Exploration",
+      "description": "Enhancing the creative potential of children"
+    },
+    {
+      "icon": "/src/assets/laugh.svg",
+      "title": "Recreational Events",
+      "description": "Engaging and connecting children with each other through fun events"
+    }
+  ]
+}
