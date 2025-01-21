@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "Donate Items",
+  },
+  "itemTypes": [
+    "Books",
+    "Clothes",
+    "Stationery",
+    "School Bags",
+    "Toys",
+    "Electronics",
+    "Sports Equipment",
+    "Other"
+  ]
+}
