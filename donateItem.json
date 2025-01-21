@@ -1,6 +1,7 @@
 {
   "hero": {
-    "title": "Donate Items"
+    "title": "Donate Items",
+    "subtitle": "Support our cause by donating essential items"
   },
   "itemTypes": [
     "Books",
