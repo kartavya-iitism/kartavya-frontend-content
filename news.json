@@ -1,56 +1,81 @@
 {
   "main": {
-    "title": "News & Achievements",
-    "subTitle": "Updates and Milestones from Kartavya"
+    "title": "Student Success Stories",
+    "subTitle": "Celebrating Academic Excellence & Achievements"
   },
   "news": [
     {
-      "title": "Annual Teaching Program Reaches 500 Students",
-      "category": "Education",
-      "date": "March 15, 2024",
-      "description": "Our volunteer teaching program has successfully reached 500 underprivileged students this year, marking a significant milestone in our mission.",
-      "image": "https://example.com/images/teaching-program.jpg"
+      "title": "JEE Advanced 2024 Success",
+      "category": "Academic Excellence",
+      "date": "June 15, 2024",
+      "description": "Secured AIR 5432 in JEE Advanced 2024, looking forward to joining IIT Bombay",
+      "studentName": "Rahul Kumar",
+      "studentImage": "/images/students/rahul.jpg",
+      "class": "Class 12",
+      "image": "/images/achievements/jee-success.jpg",
+      "score": "AIR 5432"
     },
     {
-      "title": "Kartavya Launches New Computer Lab",
-      "category": "Infrastructure",
-      "date": "February 28, 2024",
-      "description": "State-of-the-art computer facility inaugurated to provide digital literacy training to local community children.",
-      "image": "https://example.com/images/computer-lab.jpg"
+      "title": "NTSE Scholar 2024",
+      "category": "Scholarship",
+      "date": "May 20, 2024",
+      "description": "Selected for prestigious NTSE Scholarship after clearing both stages",
+      "studentName": "Priya Singh",
+      "studentImage": "/images/students/priya.jpg",
+      "class": "Class 10",
+      "image": "/images/achievements/ntse.jpg",
+      "score": "State Rank 15"
+    },
+    {
+      "title": "State Science Olympiad Winner",
+      "category": "Competition",
+      "date": "April 10, 2024",
+      "description": "Won gold medal in State Level Science Olympiad 2024",
+      "studentName": "Amit Verma",
+      "studentImage": "/images/students/amit.jpg",
+      "class": "Class 11",
+      "image": "/images/achievements/olympiad.jpg",
+      "score": "Gold Medal"
     }
   ],
   "achievements": [
     {
-      "number": "2000+",
-      "title": "Students Educated",
-      "description": "Providing quality education to underprivileged children since 2009"
+      "number": "12",
+      "title": "JEE Qualifiers",
+      "description": "Students cleared JEE Advanced 2024",
+      "category": "Academic Excellence"
     },
     {
-      "number": "150+",
-      "title": "Active Volunteers",
-      "description": "Dedicated team of IIT ISM students and faculty"
+      "number": "25",
+      "title": "Board Toppers",
+      "description": "Students scored above 90% in boards",
+      "category": "Academic Excellence"
     },
     {
-      "number": "15+",
-      "title": "Years of Service",
-      "description": "Continuous commitment to community development"
+      "number": "8",
+      "title": "NTSE Scholars",
+      "description": "Selected for NTSE Scholarship 2024",
+      "category": "Scholarship"
     }
   ],
   "timeline": [
     {
-      "date": "2009",
-      "title": "Foundation of Kartavya",
-      "description": "Started with 5 volunteers teaching 20 students"
+      "date": "June 2024",
+      "title": "JEE Advanced Results",
+      "description": "12 students qualified JEE Advanced with ranks under 10,000",
+      "examType": "JEE Advanced"
     },
     {
-      "date": "2015",
-      "title": "First Computer Lab",
-      "description": "Established digital literacy program"
+      "date": "May 2024",
+      "title": "Board Exam Success",
+      "description": "100% students passed with 5 students scoring above 95%",
+      "examType": "CBSE Boards"
     },
     {
-      "date": "2024",
-      "title": "Expansion Program",
-      "description": "Reached 10 new communities in Dhanbad"
+      "date": "April 2024",
+      "title": "NTSE Final Stage",
+      "description": "8 students selected for NTSE Scholarship",
+      "examType": "NTSE"
     }
   ]
 }
