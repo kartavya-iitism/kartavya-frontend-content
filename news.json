@@ -1,0 +1,56 @@
+{
+  "main": {
+    "title": "News & Achievements",
+    "subTitle": "Updates and Milestones from Kartavya"
+  },
+  "news": [
+    {
+      "title": "Annual Teaching Program Reaches 500 Students",
+      "category": "Education",
+      "date": "March 15, 2024",
+      "description": "Our volunteer teaching program has successfully reached 500 underprivileged students this year, marking a significant milestone in our mission.",
+      "image": "https://example.com/images/teaching-program.jpg"
+    },
+    {
+      "title": "Kartavya Launches New Computer Lab",
+      "category": "Infrastructure",
+      "date": "February 28, 2024",
+      "description": "State-of-the-art computer facility inaugurated to provide digital literacy training to local community children.",
+      "image": "https://example.com/images/computer-lab.jpg"
+    }
+  ],
+  "achievements": [
+    {
+      "number": "2000+",
+      "title": "Students Educated",
+      "description": "Providing quality education to underprivileged children since 2009"
+    },
+    {
+      "number": "150+",
+      "title": "Active Volunteers",
+      "description": "Dedicated team of IIT ISM students and faculty"
+    },
+    {
+      "number": "15+",
+      "title": "Years of Service",
+      "description": "Continuous commitment to community development"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2009",
+      "title": "Foundation of Kartavya",
+      "description": "Started with 5 volunteers teaching 20 students"
+    },
+    {
+      "date": "2015",
+      "title": "First Computer Lab",
+      "description": "Established digital literacy program"
+    },
+    {
+      "date": "2024",
+      "title": "Expansion Program",
+      "description": "Reached 10 new communities in Dhanbad"
+    }
+  ]
+}
