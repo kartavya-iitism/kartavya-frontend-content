@@ -1,25 +1,25 @@
 {
   "cards": [
     {
-      "image": "/src/assets/book.png",
+      "image": "https://lh3.googleusercontent.com/d/1r4i8K7YFEXem9maaqC1vvGZE_v2H2EYY",
       "title": "Providing Free Education and Evening Tutions",
       "backgroundColor": "#92d05b",
       "to": "/donate"
     },
     {
-      "image": "/src/assets/training.png",
+      "image": "https://lh3.googleusercontent.com/d/1q6kWCZW7yCpNXZ3PWXxV2N90uhV0VoMV",
       "title": "Training and Providing Financial Supports",
       "backgroundColor": "#3da76e",
       "to": "/contact"
     },
     {
-      "image": "/src/assets/health.png",
+      "image": "https://lh3.googleusercontent.com/d/1zwpK5_zD-s1UmXhsfY5QVwrzJWHlifAY",
       "title": "Organising Health-camps Regularly",
       "backgroundColor": "#0da8a7",
       "to": "/contact"
     },
     {
-      "image": "/src/assets/environment.png",
+      "image": "https://lh3.googleusercontent.com/d/1tELtblM7UiOQZGUtaQClp6TsIYXs76oc",
       "title": "Creating Environmental and Social Awareness",
       "backgroundColor": "#13628c",
       "to": "/donate-item"
