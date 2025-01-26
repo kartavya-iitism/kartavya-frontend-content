@@ -25,11 +25,12 @@
   "payment": {
     "title": "Payment Information",
     "bankDetails": [
-      { "label": "Account Name", "value": "Kartavya Foundation" },
-      { "label": "Account Number", "value": "1234567890" },
-      { "label": "IFSC Code", "value": "ABCD0123456" },
-      { "label": "Bank Name", "value": "State Bank of India" },
-      { "label": "Branch", "value": "Main Branch, City" }
+      { "label": "Account Name", "value": "KARTAVAYA" },
+      { "label": "Account Number", "value": "30823375289" },
+      { "label": "Account Type", "value": "CURRENT" },
+      { "label": "IFSC Code", "value": "SBIN0001641" },
+      { "label": "Bank Name", "value": "State Bank of India, ISM Campus" },
+      { "label": "Branch Code", "value": "1641" }
     ],
     "qr": {
       "title": "Scan to Pay",
