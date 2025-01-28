@@ -18,16 +18,32 @@
       "description": "Conducting tree-planting drives and promoting eco-friendly practices in the community."
     }
   ],
-  "media": {
-    "video": {
-      "title": "Video Gallery",
-      "youtubeId": "TRjVbS-Gdak"
+ "media": {
+        "photos": [
+            {
+                "id": "1",
+                "title": "Annual Day Celebration 2024",
+                "url": "https://example.com/images/annual-day-2024.jpg",
+                "thumbnail": "https://example.com/images/thumbnails/annual-day-2024.jpg",
+                "date": "2024-03-15",
+                "category": "Events",
+                "description": "Students performing at the annual day celebration",
+                "tags": ["cultural", "performance", "annual-day"]
+            }
+        ],
+        "videos": [
+            {
+                "id": "1",
+                "url": "https://www.youtube.com/embed/VIDEO_ID_1"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Events",
+                "color": "#1a4d2e"
+            }
+        ]
     },
-    "social": {
-      "title": "Social Media",
-      "twitterHandle": "Kartavyadhn"
-    }
-  },
   "support": {
     "title": "Support & Recognition",
     "description": "Kartavya is powered by generous donations from alumni, faculty members, and supporters. Our dedicated team of volunteers works tirelessly to create positive change in our community."
