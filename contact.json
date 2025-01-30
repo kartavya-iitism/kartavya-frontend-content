@@ -35,7 +35,7 @@
       },
       "contactNumber": {
         "label": "Contact Number",
-        "type": "tel",
+        "type": "text",
         "required": true
       },
       "subject": {
