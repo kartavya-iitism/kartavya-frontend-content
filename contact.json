@@ -33,6 +33,11 @@
         "type": "email",
         "required": true
       },
+      "contactNumber": {
+        "label": "Contact Number",
+        "type": "tel",
+        "required": true
+      },
       "subject": {
         "label": "Subject",
         "type": "text",
