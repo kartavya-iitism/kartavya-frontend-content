@@ -9,11 +9,11 @@
   "cards": {
     "mission": {
       "title": "Mission",
-      "content": "A world where everyone has an equal opportunity to reach their full potential regardless of their background or circumstances. A society where no one is deemed underprivileged."
+      "content": "A world where everyone has equal opportunities to realize their full potential, regardless of their background or circumstances. A society where no one is considered underprivileged, and every individual can thrive."
     },
     "vision": {
       "title": "Vision",
-      "content": "Upliftment of the underprivileged sections of society living in slums by helping children reach their full potential by providing access to education, health care, and other basic necessities; empowering women and by eradicating social evils so that our help is no longer needed."
+      "content": "Upliftment of underprivileged communities, especially children living in slums, by ensuring access to education, healthcare & basic necessities; empowering women, eliminating social evils, striving for a future where our support is no longer needed."
     }
   }
 }
