@@ -2,20 +2,20 @@
   "main": {
     "title": "About Kartavya",
     "subtitle": "A student-led social organization at IIT (ISM) Dhanbad",
-    "description": "Kartavya is committed to promoting social welfare and community development in and around the IIT (ISM) Dhanbad campus. We strive to make a positive impact by addressing various social issues and providing a platform for meaningful community service."
+    "description": "Kartavya is dedicated to promoting social welfare and community development in and around the IIT (ISM) Dhanbad campus. We aim to make a lasting impact by addressing key social issues and providing a platform for meaningful community service."
   },
   "initiatives": [
     {
       "title": "Educational Programs",
-      "description": "Providing tutoring, computer literacy classes, and scholarships for underprivileged children."
+      "description": "Provide tutoring, computer literacy classes, and scholarships to support the education of underprivileged children."
     },
     {
       "title": "Health Awareness",
-      "description": "Organizing health camps, awareness programs, and free medical check-ups for the community."
+      "description": "Organizing health camps, awareness programs, and free medical check-ups to improve the well-being of the community."
     },
     {
       "title": "Environmental Care",
-      "description": "Conducting tree-planting drives and promoting eco-friendly practices in the community."
+      "description": "Conducting tree plantation drives & actively promoting eco-friendly practices to foster environmental responsibility."
     }
   ],
  "media": {
@@ -46,6 +46,6 @@
     },
   "support": {
     "title": "Support & Recognition",
-    "description": "Kartavya is powered by generous donations from alumni, faculty members, and supporters. Our dedicated team of volunteers works tirelessly to create positive change in our community."
+    "description": "Kartavya is supported by generous contributions from alumni, faculty members, and well-wishers. Our committed team of volunteers works tirelessly to bring about positive and sustainable change in the community."
   }
 }
