@@ -1,8 +1,8 @@
 {
     "main": {
         "heading": "Frequently Asked Questions",
-        "subHeading": "Find answers to common questions about Kartavya",
-        "description": "We've compiled a list of frequently asked questions to help you better understand our organization and its initiatives. If you can't find the answer you're looking for, feel free to contact us."
+        "subHeading": "Find answers to the most common questions about Kartavya and its initiatives",
+        "description": "We've compiled a list of frequently asked questions to help you better understand our organization and its initiatives. If your query isn't addressed here, please feel free to contact us."
     },
     "contactCard": {
         "heading": "Still Have Questions?",
@@ -18,16 +18,16 @@
             "answer": "Our child sponsorship program provides educational support to underprivileged children. The sponsorship amount of ₹8,000 covers educational expenses for one year."
         },
         {
-            "question": "How are the donations utilized?",
-            "answer": "Donations are primarily used for educational programs, health initiatives, and community development projects. We maintain complete transparency in fund utilization."
-        },
-        {
             "question": "Can I volunteer at Kartavya?",
-            "answer": "Yes, we welcome volunteers! IIT (ISM) students can join as regular volunteers, while others can participate in specific events and programs."
+            "answer": "Yes, Absolutely! Kartavya thrives because of the dedication and passion of its volunteers, who contribute selflessly to our cause. IIT ISM Students can join as regular volunteers, while individuals from outside the institute are invited to participate in specific events and initiatives. Every effort counts, and your involvement can truly make a difference."
         },
         {
-            "question": "Is my donation tax-deductible?",
-            "answer": "Yes, all donations to Kartavya are eligible for tax deduction under Section 80G of the Income Tax Act."
+            "question": "Are my donations tax-deductible?",
+            "answer": "Yes, all donations made to Kartavya are eligible for tax deductions under Section 80G of the Income Tax Act, 1961. Donors will receive a receipt for claiming the deduction."
+        },
+        {
+            "question": "How are the donations utilized?",
+            "answer": "Donations are primarily allocated to educational programs, health initiatives, and community development projects. Kartavya is committed to maintaining complete transparency in the utilization of funds, ensuring every contribution is used effectively to create meaningful impact."
         }
     ]
 }
