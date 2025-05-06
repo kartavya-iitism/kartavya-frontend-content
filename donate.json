@@ -11,11 +11,11 @@
   "steps": [
     {
       "title": "Choose Amount",
-      "description": "Select how much you'd like to donate to support our cause"
+      "description": "Select the amount you wish to donate in support of our cause"
     },
     {
       "title": "Make Payment",
-      "description": "Transfer the amount using our bank details or scan QR code"
+      "description": "Transfer the chosen amount using our bank details or by scanning the provided QR code"
     },
     {
       "title": "Fill Details",
