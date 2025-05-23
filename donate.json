@@ -53,13 +53,13 @@
     }
   },
   "sponsorship": {
-    "amountPerChild": 8000,
+    "amountPerChild": 8500,
     "labels": {
       "sponsorshipAmount": "Amount For Children Sponsorship",
       "totalAmount": "Total Amount"
     },
     "helperText": {
-      "sponsorship": "children × ₹8,000 per child",
+      "sponsorship": "children × ₹8,500 per child",
       "total": "Sponsorship amount + Extra donation"
     }
   }
